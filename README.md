@@ -10,7 +10,8 @@
 - 
 -->
 ###  About Me
-    I love Codding,Problem Solving. I want inspirants to get a  Full Stack Developer,Software Engineer Job. I Have Done 6 Projects Done Web-Development.
+    I love Codding,Problem Solving. I want inspirants to get a  Full Stack Developer,Software Engineer Job. 
+    I Have Done 6 Projects Done Web-Development.
 
 
   ###                                                                    Reach Me Out

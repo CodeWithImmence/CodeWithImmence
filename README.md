@@ -7,12 +7,12 @@
 
 
 
-- 👋 I’m Rajai Vishal,a Web Developer 💻,Android Developer,Software Engineer from India.
-- 🌱 I’m currently pursuing Master of Computer Application.
+- 👋 I’m Rajai Vishal, Associate Software Developer 💻 At Anthology,Software Engineer from India.
+- 🌱 I’m Graduated Master of Computer Application.
 - 🔬 Always ready to collaborate for Dev Experiments
 ###  About Me
-    I love Codding,Problem Solving. I want inspirants to get a  Full Stack Developer,Software Engineer Job. 
-    I Have Done 6 Projects Done Web-Development.
+    I love Codding,Problem Solving. I want inspirants to get a  Full Stack Developer,Software Developer, Software Engineer Job. 
+    I Have Done 11 Projects Done Web-Development.
 
 
   ###                                                                    Reach Me Out

@@ -7,7 +7,8 @@
 
 
 
-- 👋 I’m Rajai Vishal, Associate Software Developer 💻 At Anthology,Software Engineer from India.
+- 👋 I’m Rajai Vishal, Associate Software Developer 
+- 💻 At Anthology,Software Engineer from India.
 - 🌱 I’m Graduated Master of Computer Application.
 - 🔬 Always ready to collaborate for Dev Experiments
 ###  About Me

@@ -1,9 +1,3 @@
-
-
-
-
-![Web Developer _ Coder _ Application Developer (2)](https://user-images.githubusercontent.com/55343199/111784293-46b1ab00-88e1-11eb-9c21-6df19db2a898.gif)
-
 # 👋 Hi, I'm Vishal
 
 I'm a passionate **Software Developer** with a background in C# and Java, currently working with Learning Management Systems and Integration Services. I enjoy building meaningful solutions and continuously improving my skills in development.

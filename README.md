@@ -41,8 +41,8 @@ Collaborated on a support tool to diagnose and resolve issues related to inactiv
 ## 📫 Let's Connect
 
 - 📧 Email: [rajaivishal.official@gmail.com]
-- 💼 LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/vishalrajai41/)
-- 🌐 Portfolio: [your-portfolio-site.com](https://codewithimmence.in/)
+- 💼 LinkedIn: (https://www.linkedin.com/in/vishalrajai41/)
+- 🌐 Portfolio: (https://codewithimmence.in/)
 
 ---
 
